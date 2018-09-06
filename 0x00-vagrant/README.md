@@ -1,0 +1,1 @@
+This project was about learning about how virtual machines work, and experiencing them for ourselves by using vagrant to access Ubuntu.
