@@ -1,0 +1,1 @@
+This project is about exploring emacs by demonstrating what it can do.
